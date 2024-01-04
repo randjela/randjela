@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Graphic and Web Designer</h3>
 <img align = "right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/12/b7/87/12b7877ea50bc630d3c2367553a4e1a3.gif">
 
-- 🔭 I’m currently working on [Responsive website for Flower Shop](https://bonsai-cvecara-le.netlify.app)
+- 🔭 I’m currently working on [Responsive website for Flower Shop](https://cvecara-bonsai.netlify.app)
 
 - 🌱 I’m currently learning **php, html and css**
 
